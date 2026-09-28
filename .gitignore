@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Datasets
+data/
+*.zip
+
+# Trained models
+*.keras
+*.h5
+*.hdf5
+
+# TensorFlow checkpoints
+*.ckpt
+checkpoint
+
+# Logs
+logs/
+*.log
